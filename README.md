@@ -19,6 +19,7 @@ data can then export to a file, which the program can read the next time it is o
 ## Tech Stack
 
 - **Language:** Java
+- **External Tools:** Scanner
 
 ## Setup
 
