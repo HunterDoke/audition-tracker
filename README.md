@@ -14,7 +14,7 @@ across four separate categories. The user selects one of the categories and adds
 an amount of time in hours and minutes that they spent practicing that day. The
 data can then export to a file, which the program can read the next time it is opened.
 
-![System diagram](docs/diagram.png)
+![System diagram](AuditionTrackerFlowchart.drawio.png)
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@ Work in progress
 
 - [ ] Multiple users/accounts
 - [ ] Track dates of specific practice sessions
-- [ ] 
+- [ ] Handling specific edge cases
 
 ## Author
 
